@@ -1,2 +1,2 @@
 ### William Mian
-- Analista de Sistemas e Desenvolvedor Full Stack Java
+- Analista Desenvolvedor Full Stack Java
